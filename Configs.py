@@ -1,0 +1,4 @@
+TOKEN : str = 'MTA1MDgxMTk0NTczNDkxMDAxMg.GUSr-u.9F6rQ6tLYkdiTN3Rg2krBc1zmbacpfZXUoE44M'
+PREFIX : str = '!'
+
+APP_ID : int = 1050811945734910012
