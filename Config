@@ -1,0 +1,17 @@
+{
+  "APP":{
+    "TOKEN": "MTA1MDgxMTk0NTczNDkxMDAxMg.GUSr-u.9F6rQ6tLYkdiTN3Rg2krBc1zmbacpfZXUoE44M",
+    "PREFIX": "!",
+    "APP_ID": "1050811945734910012"
+  },
+  "COLOURS": {
+    "COLOUR_RED": "discord.Colour.red()",
+    "COLOUR_BLUE": "",
+    "COLOUR_GREEN": "",
+    "COLOUR_YELLOW":"",
+    "COLOUR_ORANGE": "",
+
+    "COLOUR_DISCORD": "discord.Colour(0x363639E)"
+  }
+}
+
