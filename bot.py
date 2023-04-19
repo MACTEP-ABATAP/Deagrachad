@@ -26,6 +26,6 @@ async def parse(ctx, file_name: str):
 @bot.slash_command(name="dice", description = "Кинет многогранник")
 async def dice(ctx, d: int):
     result = random.randint(1,d)
-    await ctx.send(result)
+    await ctx.send(f"На {d}-граннике выпало {result}")
 
 bot.run(os.getenv('TOKEN'))
