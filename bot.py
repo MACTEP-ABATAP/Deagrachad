@@ -12,7 +12,6 @@ bot = discord.Bot()
 async def on_ready():
     print(f"{bot.user} готов деграднуть!")
 
-
 @bot.slash_command(name="degrachad", description="Позови ДеграЧада")
 async def ping(ctx):
     await ctx.send('Я есть Деграчад')
