@@ -16,6 +16,9 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send('Я есть Деграчад')
 
+@bot.slash_command(name = "сообщение", description="создаёт сообщение")
+async def create_message(ctx, message_text: str):
+    await ctx.send(message_text)
 
 @bot.slash_command(name="json_reader", description="прочтёт json файл")
 async def parse(ctx, file_name: str):
