@@ -1,3 +1,4 @@
 .env
 __pycache__/jsonHandler.cpython-311.pyc
 __pycache__/Views.cpython-311.pyc
+secret.env
