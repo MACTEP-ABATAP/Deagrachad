@@ -1,25 +1,17 @@
-{
-    "GAMES":{
-        "Rainbow six: siedge":{
-
-        },
-        "Apex Legends":{
-
-        },
-        "Minecraft":{
-
-        },
-        "Phasmophobia":{
-
-        },
-        "Project Zomboid":{
-
-        },
-        "Barotrauma":{
-
-        },
-        "SS13":{
-
-        }
+[
+    {
+        "name": "Minecraft",
+        "genre": "Sandbox",
+        "ratings": {"user1": 9.5, "user2": 8.0}
+    },
+    {
+        "name": "Among Us",
+        "genre": "Party",
+        "ratings": {"user1": 8.0, "user3": 7.5}
+    },
+    {
+        "name": "Fortnite",
+        "genre": "Battle Royale",
+        "ratings": {"user2": 9.0, "user3": 8.5}
     }
-}
+]
